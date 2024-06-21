@@ -1,6 +1,6 @@
 # SensorFusion_Kalman_and_Particle_Filter
 
-The project has 2 jupyter notebook files named with Kalman_Filter_Portfolio_2.ipynb , and Particle_Filter_Portfolio_2.ipynb
+The project has 2 jupyter notebook files named with Kalman_Filter_Portfolio_2.ipynb , and Particle_Filter_Portfolio_2.ipynb. I have also added the python files as well in the folder.
 you can open these files in your vscode or google colab or in  any of your fav IDE
 To run this project you need to ensure to install these require pkgs in your environment
 
