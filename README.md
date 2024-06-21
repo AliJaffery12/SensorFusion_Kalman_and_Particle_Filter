@@ -15,7 +15,7 @@ you can install these libraries via pip or pip3
 # pip install Matplotlib
 
 # Parameters
-# Kalman Filter Parameters
+# Kalman Filter 
 1. launch_position: Initial position of the ball (e.g., [10, 10]).
 2. launch_speed: Initial speed of the ball.
 3. launch_angle: Launch angle in degrees.
